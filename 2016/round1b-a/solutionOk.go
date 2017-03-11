@@ -1,7 +1,5 @@
 package main
 
-// large dataset Time Limit Exceeded
-
 import (
 	"fmt"
 	"log"
